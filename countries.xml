@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<data>
+    <country name="Germany">
+        <rank>1</rank>
+        <date>15/FEB/2006</date>
+        <gdppc>198800</gdppc>
+        <neighbor name="Austria" direction="S" />
+        <neighbor name="Poland" direction="E" />
+    </country>
+    <country name="Spain">
+        <rank>13</rank>
+        <date>25/MAR/2009</date>
+        <gdppc>123500</gdppc>
+        <neighbor name="Portugal" direction="W" />
+        <neighbor name="France" direction="E" />
+    </country> 
+    <country name="Finland">
+        <rank>39</rank>
+        <date>10/JAN/2015</date>
+        <gdppc>98700</gdppc>
+        <neighbor name="Sweden" direction="W" />
+        <neighbor name="Russia" direction="E" />
+    </country>     
+</data>
